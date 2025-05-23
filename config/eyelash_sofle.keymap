@@ -56,8 +56,8 @@
 
         layer_1 {
             bindings = <
-&kp GRAVE   &kp F1           &kp F2          &kp F3           &kp F4           &kp F5             &mmv MOVE_UP              &kp F6           &kp F7                    &kp F8      &kp F9          &kp F10           &trans
-&trans      &kp GRAVE        &kp INSERT      &kp HOME         &kp PAGE_DOWN    &mkp MB4           &mmv MOVE_DOWN            &kp PG_UP        &kp C_AL_KEYBOARD_LAYOUT  &kp UP      &kp LANGUAGE_1  &kp MINUS         &kp EQUAL
+&kp GRAVE   &kp F1           &kp F2          &kp F3           &kp F4           &kp F5             &mmv MOVE_UP              &kp F6           &kp F7                    &kp F8      &kp F9          &kp F10           &kp PAUSE_BREAK
+&trans      &kp APOSTROPHE   &kp INSERT      &kp HOME         &kp PAGE_DOWN    &mkp MB4           &mmv MOVE_DOWN            &kp PG_UP        &kp C_AL_KEYBOARD_LAYOUT  &kp UP      &kp LANGUAGE_1  &kp MINUS         &kp EQUAL
 &trans      &kp PRINTSCREEN  &kp DEL         &kp END          &kp PAGE_DOWN    &mkp MB5           &mmv MOVE_LEFT            &kp PG_DN        &kp LEFT                  &kp DOWN    &kp RIGHT       &kp LEFT_BRACKET  &kp RIGHT_BRACKET
 &trans      &rgb_ug RGB_OFF  &rgb_ug RGB_ON  &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &rgb_ug RGB_SPI    &mmv MOVE_RIGHT           &rgb_ug RGB_BRI  &rgb_ug RGB_BRD           &kp INSERT  &kp F11         &kp F12           &trans
 &kp C_MUTE  &trans           &trans          &trans           &trans           &trans             &kp C_AL_KEYBOARD_LAYOUT  &trans           &trans                    &trans      &trans          &trans
