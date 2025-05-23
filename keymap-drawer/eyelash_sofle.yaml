@@ -78,9 +78,9 @@ layers:
   - F8
   - F9
   - F10
+  - PAUSE BREAK
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '`', s: '~'}
+  - {t: '''', s: '"'}
   - Ins
   - HOME
   - PgDn
