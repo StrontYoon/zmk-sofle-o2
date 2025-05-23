@@ -39,7 +39,7 @@ layers:
   - K
   - L
   - {t: ;, s: ':'}
-  - {t: '$$mdi:apple-keyboard-control$$', h: ''''}
+  - {t: '''', h: '$$mdi:apple-keyboard-control$$', s: '"'}
   - $$mdi:apple-keyboard-shift$$
   - Z
   - X
@@ -80,7 +80,7 @@ layers:
   - F10
   - PAUSE BREAK
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '''', s: '"'}
+  - Ctl+Alt+$$mdi:backspace-reverse-outline$$
   - Ins
   - HOME
   - PgDn
